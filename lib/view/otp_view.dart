@@ -127,7 +127,6 @@ class _OtpViewState extends State<OtpView> {
               ),
             ),
           ),
-
         )
     );
   }
